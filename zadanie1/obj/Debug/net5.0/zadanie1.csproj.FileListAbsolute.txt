@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\bin\Debug\net5.0\zadanie1.exe
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\bin\Debug\net5.0\zadanie1.deps.json
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\bin\Debug\net5.0\zadanie1.runtimeconfig.json
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\bin\Debug\net5.0\zadanie1.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\bin\Debug\net5.0\zadanie1.dll
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\bin\Debug\net5.0\ref\zadanie1.dll
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\bin\Debug\net5.0\zadanie1.pdb
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\zadanie1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\zadanie1.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\zadanie1.AssemblyInfo.cs
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\zadanie1.dll
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\ref\zadanie1.dll
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\zadanie1.pdb
+C:\Users\Student\source\repos\Ciomp3k\Zajecia\zadanie1\obj\Debug\net5.0\zadanie1.genruntimeconfig.cache
